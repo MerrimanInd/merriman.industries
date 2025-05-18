@@ -1,0 +1,6 @@
+[submodule "merriman.industries/themes/duckquill"]
+	path = merriman.industries/themes/duckquill
+	url = https://codeberg.org/daudix/duckquill.git
+[submodule "merriman.industries/themes/themes/linkita"]
+	path = merriman.industries/themes/themes/linkita
+	url = https://codeberg.org/salif/linkita.git
