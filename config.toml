@@ -41,7 +41,7 @@ insert_anchor_links = "none"
 [extra]
 # Put all your custom variables here
 accent_color = "#5f8dd3"
-emoji_favicon = "⚙️"
+# emoji_favicon = "⚙️"
 
 [extra.nav]
 show_theme_switcher = true
