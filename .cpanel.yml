@@ -3,4 +3,5 @@ deployment:
  tasks:
  - export DEPLOYPATH=/home/merriman/public_html/
  - export REPOPATH=/home/merriman/repositories/merriman.industries
- - /bin/cp -R -a $REPOPATH/public/. $DEPLOYPATH
+ - /bin/rm -R $DEPLOYPATH
+ - /bin/cp -a $REPOPATH/public/. $DEPLOYPATH

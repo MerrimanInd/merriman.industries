@@ -7,16 +7,7 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://merriman.industries/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate>
-      <item>
-          <title>My second post</title>
-          <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
-          <author>Xander Cesari</author>
-          <link>https://merriman.industries/blog/second/</link>
-          <guid>https://merriman.industries/blog/second/</guid>
-          <description xml:base="https://merriman.industries/blog/second/">&lt;p&gt;This is my second blog post.&lt;&#x2F;p&gt;
-</description>
-      </item>
+      <lastBuildDate>Wed, 27 Nov 2019 00:00:00 +0000</lastBuildDate>
       <item>
           <title>About Me</title>
           <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
