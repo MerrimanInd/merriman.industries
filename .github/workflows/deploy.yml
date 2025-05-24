@@ -17,3 +17,5 @@ jobs:
         repository_root: '/home/merriman/repositories/merriman.industries '
         # Whether or not to update the repository before triggering the deployment. If true - parameter 'branch' is required. defaults to 'true'.
         branch: main
+    - name: echo deploy-duration
+      run: echo "Deployment took ${{ steps.deploy.outputs.duration }} milliseconds"
